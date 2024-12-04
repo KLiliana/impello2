@@ -1,0 +1,42 @@
+.hero-section {
+    text-align: center;
+    background-color: #cdded4;
+    padding: 50px 20px;
+  }
+
+  .services-section {
+    padding: 50px 20px;
+    
+  }
+
+  .services-section .card {
+    border: none;
+    border-radius: 10px;
+  }
+
+  .welcome-section {
+    text-align: center;
+    background-color: #B8CFBD
+    padding: 50px 20px;
+  }
+
+  .about-section {
+    text-align: center;
+    padding: 50px 20px;
+  }
+
+  .fab.fa-instagram {
+    color: transparent;
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+    background: -webkit-radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+    background-clip: text;
+    -webkit-background-clip: text;
+  }
+
+  footer {
+    background-color: #84b45e
+    padding: 20px 20px;
+    text-align: center;
+  }
+</style>
+</head>
